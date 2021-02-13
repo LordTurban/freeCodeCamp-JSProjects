@@ -109,5 +109,5 @@ function convertToRoman(num) {
  // The code passes a cicle of "if else" for each step (thousands, hundreds...), to form the end result //
  return romanNumber;
 }
-
-convertToRoman(3);
+// You put the number you wish to convert to its Roman Numeral form //
+convertToRoman(2);
